@@ -25,7 +25,7 @@
     "spark": "quay.io/cdis/gen3-spark:master",
     "tube": "quay.io/cdis/tube:master",
     "wts": "quay.io/cdis/workspace-token-service:master",
-    "guppy": "quay.io/cdis/guppy:master",
+    "guppy": "quay.io/cdis/guppy:0.1.0",
     "sower": "quay.io/cdis/sower:feat_configuration"
   },
   "arborist": {
