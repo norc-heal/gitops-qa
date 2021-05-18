@@ -366,7 +366,6 @@ mappings:
           - name: _subject_id
             src: id
             fn: set
-          - name: project_id
   - name: qa-covid19_dataset
     doc_type: dataset
     type: aggregator
